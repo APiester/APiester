@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-💻 **IT Spcealist | Software Engineer | Entrepreneur**  
+💻 **IT Specialist | Software Engineer | Entrepreneur**  
 I specialize in creating secure, efficient, and scalable solutions. Passionate about automation, networking, and building systems that make life easier.
 I have 1 year expierence in software development and 1 year expierence as an IT Spealist.
 
