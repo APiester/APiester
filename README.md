@@ -3,7 +3,6 @@
 💻 **IT Spcealist | Software Engineer | Entrepreneur**  
 I specialize in creating secure, efficient, and scalable solutions. Passionate about automation, networking, and building systems that make life easier.
 I have 1 year expierence in software development and 1 year expierence as an IT Spealist. 
-
 I am currently looking for an entry level software development related field.
 ---
 
