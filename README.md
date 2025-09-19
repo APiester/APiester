@@ -13,5 +13,5 @@ I am currently looking for an entry level software development related field.
 - **Cloud/Infra:** Azure, AWS, Linux, Networking, GitHub Actions  
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/adampiester/))  
+- LinkedIn([https://linkedin.com/in/yourname](https://www.linkedin.com/in/adampiester/))  
 - Email: adampiester@gmail.com
